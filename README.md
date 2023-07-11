@@ -2,7 +2,7 @@
 
 ## Table of Contents 📘
 
-1. [Project Overview](#Project-Overview)
+1. [Project Overview](#project-overview-)
 2. [Data](#Data)
 3. [Project Goal](#Project-Goal)
 4. [Data Exploration](#Data-Exploration)
