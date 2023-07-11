@@ -9,7 +9,7 @@
 5. [Data Cleaning](#Data-Cleaning)
 6. [Exploratory Data Analysis (EDA)](#EDA)
 7. [Key Insights](#Key-Insights)
-8. [Conclusion](#conclusion)
+8. [Conclusion](#Conclusion)
 
 ## Project Overview 🚀
 
