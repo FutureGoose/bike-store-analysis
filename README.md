@@ -2,14 +2,14 @@
 
 ## Table of Contents 📘
 
-1. [Project Overview](#project-overview-)
-2. [Data](#data-)
+1. [Project Overview](#Project-Overview-)
+2. [Data](#Data-)
 3. [Project Goal](#Project-Goal-)
-4. [Data Exploration](#Data-Exploration)
-5. [Data Cleaning](#Data-Cleaning)
-6. [Exploratory Data Analysis (EDA)](#EDA)
-7. [Key Insights](#Key-Insights)
-8. [Conclusion](#Conclusion)
+4. [Data Exploration](#Data-Exploration-)
+5. [Data Cleaning](#Data-Cleaning-)
+6. [Exploratory Data Analysis (EDA)](#EDA-)
+7. [Key Insights](#Key-Insights-)
+8. [Conclusion](#Conclusion-)
 
 ## Project Overview 🚀
 
