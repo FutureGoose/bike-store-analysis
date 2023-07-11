@@ -7,7 +7,7 @@
 3. [Project Goal](#Project-Goal-)
 4. [Data Exploration](#Data-Exploration-)
 5. [Data Cleaning](#Data-Cleaning-)
-6. [Exploratory Data Analysis (EDA)](#EDA-)
+6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda-)
 7. [Key Insights](#Key-Insights-)
 8. [Conclusion](#Conclusion-)
 
