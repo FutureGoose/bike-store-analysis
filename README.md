@@ -13,7 +13,7 @@
 
 ## Project Overview 🚀
 
-In this project, we investigate a bicycle retail business within the European market to identify opportunities for enhancing growth. We dive deep into the company's sales data, analyze business performance, and uncover pivotal shifts in strategies. Through a series of visualizations, we paint a clear picture of the company's journey and draw insights on driving profitability.
+In this project, I investigate a bicycle retail business within the European market to identify opportunities for enhancing growth. We dive deep into the company's sales data, analyze business performance, and uncover pivotal shifts in strategies. Through a series of visualizations, I aim to paint a clear picture of the company's journey and draw insights on driving profitability.
 
 ## Data 🗂️
 
@@ -27,7 +27,7 @@ The primary goal is to develop strategies that minimize risk while boosting prof
 
 ## Data Exploration 🔍
 
-We started by examining the distribution of categorical and numerical columns. During the business profitability analysis, we found negative values in the Margin column, indicating losses on some sales.
+We start off by examining the distribution of categorical and numerical columns. During the business profitability analysis, I found negative values in the Margin column, indicating losses on some sales.
 
 ## Data Cleaning 🧹
 
@@ -35,7 +35,7 @@ The cleaning process involved removing unnecessary columns, dropping missing val
 
 ## Exploratory Data Analysis (EDA) 📊
 
-We segmented our EDA into four phases, reflecting the company's journey from incurring losses to exponential growth and then to a sudden recession. Each phase involved analyzing margins, revenue, product introductions, market strategies, and much more.
+I segmented our EDA into four phases, reflecting the company's journey from incurring losses to exponential growth and then to a sudden recession. Each phase involved analyzing margins, revenue, product introductions, market strategies, and much more.
 
 ## Key Insights 💡
 
@@ -43,7 +43,7 @@ One of the major findings was that Germany stood out in terms of profitability i
 
 ## Conclusion 🏁
 
-Through this project, we successfully identified opportunities for enhancing growth and developed strategies to increase profits. We highlighted the importance of adaptive market strategies, understanding customer preferences, and seasonal impacts.
+Through this project, I successfully identified opportunities for enhancing growth and developed strategies to increase profits. I highlighted the importance of adaptive market strategies, understanding customer preferences, and seasonal impacts.
 
 Check out the complete notebook for an in-depth understanding. Remember, every bit of data tells a story!
 
