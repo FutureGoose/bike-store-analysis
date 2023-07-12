@@ -15,8 +15,6 @@
 
 In this project, I investigate a bicycle retail business within the European market to identify opportunities for enhancing growth. Delving deep into the company's sales data, analyzing business performance, and uncovering pivotal shifts in strategies, I use detailed visualizations to paint a clear picture of the company's journey and draw insights on driving profitability.
 
-Here is a revision that ensures consistent use of first person singular pronouns ("I", "my"):
-
 ## Data 🗂️
 
 The data consists of sales records with features like Date, Year, Month, Customer Age, Customer Gender, Country, State, Product Category, Sub Category, Quantity, Unit Cost, Unit Price, and Revenue. This rich dataset allows me to conduct comprehensive exploratory and profitability analyses.
