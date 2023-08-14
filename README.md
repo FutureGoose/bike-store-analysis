@@ -1,4 +1,4 @@
-# The Struggling Bike Company: A Data Analysis Project 🚲📊
+# The Struggling Bike Company: Analyzing the Viability of Selling Bicycles 🚲📊
 
 ## Table of Contents 📘
 
