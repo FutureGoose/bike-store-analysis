@@ -1,5 +1,7 @@
 # The Struggling Bike Company: Analyzing the Viability of Selling Bicycles 🚲📊
 
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/bike-store-analysis/blob/main/bike_store_analysis.ipynb).**
+
 ## Table of Contents 📘
 
 1. [Project Overview](#Project-Overview-)
